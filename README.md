@@ -1,0 +1,2 @@
+# HOUR-TO-HOUR-DAY-MANAGER
+GA TECH WEEK 6 CHALLENGE "work day scheduler"
